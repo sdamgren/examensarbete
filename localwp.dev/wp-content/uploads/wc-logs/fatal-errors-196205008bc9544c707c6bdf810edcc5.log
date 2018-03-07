@@ -1,0 +1,180 @@
+2018-01-05T10:02:38+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerec_content() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/olympos/woocommerce.php:3
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-05T10:02:48+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerec_content() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/olympos/woocommerce.php:3
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-09T15:19:05+00:00 CRITICAL Uncaught Error: Call to undefined function add_theme_supprot() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/functions.php:64
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-settings.php(426): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-config.php(89): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-load.php(37): require_once('/Users/sandrada...')
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(13): require_once('/Users/sandrada...')
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#5 {main}
+  thrown
+
+2018-01-10T09:51:14+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T09:51:33+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T09:52:53+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T09:56:29+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T10:00:21+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T10:01:11+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thumnail() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/single.php:11
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-10T18:10:10+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/inc/walker.php:54
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(145): Walker_Nav_Primary->start_el('', Object(WP_Post), 0, Object(stdClass))
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(243): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(531): Walker->walk(Array, 0, Object(stdClass))
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(191): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php(47): wp_nav_menu(Object(stdClass))
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(688): require_once('/Users/sandrada...
+
+2018-01-10T18:35:03+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/inc/walker.php:54
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(145): Walker_Nav_Primary->start_el('', Object(WP_Post), 0, Object(stdClass))
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(243): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(531): Walker->walk(Array, 0, Object(stdClass))
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(191): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php(47): wp_nav_menu(Object(stdClass))
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(688): require_once('/Users/sandrada...
+
+2018-01-10T18:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/inc/walker.php:54
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(145): Walker_Nav_Primary->start_el('', Object(WP_Post), 0, Object(stdClass))
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(243): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(531): Walker->walk(Array, 0, Object(stdClass))
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(191): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php(47): wp_nav_menu(Object(stdClass))
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(688): require_once('/Users/sandrada...
+
+2018-01-10T18:39:00+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/inc/walker.php:68
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(145): Walker_Nav_Primary->start_el('<li id="menu-it...', Object(WP_Post), 0, Object(stdClass))
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(243): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '<li id="menu-it...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(531): Walker->walk(Array, 0, Object(stdClass))
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(191): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php(47): wp_nav_menu(Object(stdClass))
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(68
+
+2018-01-10T18:39:11+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/inc/walker.php:72
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(145): Walker_Nav_Primary->start_el('<li id="menu-it...', Object(WP_Post), 0, Object(stdClass))
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/class-wp-walker.php(243): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '<li id="menu-it...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(531): Walker->walk(Array, 0, Object(stdClass))
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/nav-menu-template.php(191): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php(47): wp_nav_menu(Object(stdClass))
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(68
+
+2018-01-10T18:51:17+00:00 CRITICAL Uncaught Error: Class 'Walker_Nav_Primary' not found in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php:47
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(688): require_once()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(647): load_template('/Users/sandrada...', true)
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/index.php(1): get_header()
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include('/Users/sandrada...')
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#6 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#7 {main}
+  thrown
+
+2018-01-14T17:51:59+00:00 CRITICAL Uncaught Error: Call to undefined function bloginfor() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/header.php:20
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(688): require_once()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template.php(647): load_template('/Users/sandrada...', true)
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/index.php(1): get_header()
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include('/Users/sandrada...')
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#6 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#7 {main}
+  thrown
+
+2018-01-17T22:18:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/functions.php on line 88 and at least 2 expected in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/plugin.php:398
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/functions.php(88): add_action('woocommerce_bef...')
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-settings.php(426): include('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-config.php(89): require_once('/Users/sandrada...')
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-load.php(37): require_once('/Users/sandrada...')
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(13): require_once('/Users/sandrada...')
+#5 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#6 {main}
+  thrown
+
+2018-01-17T22:18:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/functions.php on line 88 and at least 2 expected in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/plugin.php:398
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/functions.php(88): add_action('woocommerce_bef...')
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-settings.php(426): include('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-config.php(89): require_once('/Users/sandrada...')
+#3 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-load.php(37): require_once('/Users/sandrada...')
+#4 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-admin/admin-ajax.php(22): require_once('/Users/sandrada...')
+#5 {main}
+  thrown
+
+2018-01-18T10:27:16+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/page-home.php:32
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
+2018-01-23T21:33:05+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-content/themes/printstoretheme/page-home.php:63
+Stack trace:
+#0 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-includes/template-loader.php(74): include()
+#1 /Users/sandradamgren/htdocs/printstore/localwp.dev/wp-blog-header.php(19): require_once('/Users/sandrada...')
+#2 /Users/sandradamgren/htdocs/printstore/localwp.dev/index.php(17): require('/Users/sandrada...')
+#3 {main}
+  thrown
+
